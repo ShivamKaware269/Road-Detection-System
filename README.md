@@ -26,5 +26,5 @@ This project implements an edge- and color-based lane detection algorithm design
 
 * **Language:** Python 3.x
 * **Libraries:**
-  * `opencv-python`[cite: 1]
-  * `numpy`[cite: 1]
+  * `opencv-python`
+  * `numpy`
